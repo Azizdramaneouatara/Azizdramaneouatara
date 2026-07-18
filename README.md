@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azizdramaneouatara
+- 👋 Hi, I’m Aziz Dramane
 - 👀 I’m interested in Financial Market studies.
 - 💞️ I’m looking to collaborate on project related to time series analysis of financial seccurities such as stock and etc...
 - 📫 How to reach me dramaneazizo@gmail.com 
