@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Azizdramaneouatara
-- 👀 I’m interested in economics and cryptocurrencies.
-- 🌱 I’m currently learning ..economics and statistics.
-- 💞️ I’m looking to collaborate on .crypto improvement..
+- 👀 I’m interested in Financial Market studies.
+- 💞️ I’m looking to collaborate on project related to time series analysis of financial seccurities such as stock and etc...
 - 📫 How to reach me dramaneazizo@gmail.com 
 
 <!---
