@@ -21,7 +21,7 @@
 
 ###
 
-<p data-importer="text" align="left">Passionate about quantitative finance, financial econometrics, and machine learning. I buikd projects in R and Python focused on financial time series,volatility modeling,and asset pricing while continuously expanding my research skills.</p>
+<p data-importer="text" align="left">Passionate about quantitative finance, financial econometrics, and machine learning. I build projects in R and Python focused on financial time series,volatility modeling,and asset pricing while continuously expanding my research skills.</p>
 
 ###
 
